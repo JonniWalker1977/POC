@@ -1,4 +1,4 @@
-# simple-webpage
+# Proof of Concept
 
 Link to site: https://jonniwalker1977.github.io/POC/
 
